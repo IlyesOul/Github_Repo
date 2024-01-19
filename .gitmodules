@@ -1,0 +1,24 @@
+[submodule "Machine Learning Programs/Finance_App"]
+	path = Machine Learning Programs/Finance_App
+	url = https://github.com/IlyesOul/Finance_App
+[submodule "Machine Learning Programs/To-Do-List"]
+	path = Machine Learning Programs/To-Do-List
+	url = https://github.com/IlyesOul/To-Do-List
+[submodule "JavaScript Game Development/Jet_Game"]
+	path = JavaScript Game Development/Jet_Game
+	url = https://github.com/IlyesOul/Jet_Game
+[submodule "JavaScript Game Development/Physics-Game"]
+	path = JavaScript Game Development/Physics-Game
+	url = https://github.com/IlyesOul/Physics-Game
+[submodule "Tic-Tac-Toe"]
+	path = Tic-Tac-Toe
+	url = https://github.com/IlyesOul/Tic-Tac-Toe
+[submodule "Java Programs/Tic-Tac-Toe"]
+	path = Java Programs/Tic-Tac-Toe
+	url = https://github.com/IlyesOul/Tic-Tac-Toe
+[submodule "Java Programs/UniSprouts"]
+	path = Java Programs/UniSprouts
+	url = https://github.com/IlyesOul/UniSprouts
+[submodule "Java Programs/Bucket-Sort-LL"]
+	path = Java Programs/Bucket-Sort-LL
+	url = https://github.com/IlyesOul/Bucket-Sort-LL
