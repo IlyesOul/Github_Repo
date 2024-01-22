@@ -28,3 +28,6 @@
 [submodule "Web Devlopment/Portfolio_Website"]
 	path = Web Devlopment/Portfolio_Website
 	url = https://github.com/IlyesOul/Portfolio_Website
+[submodule "Machine Learning Programs/Independent_Study_23-24"]
+	path = Machine Learning Programs/Independent_Study_23-24
+	url = https://github.com/IlyesOul/Independent_Study_23-24
