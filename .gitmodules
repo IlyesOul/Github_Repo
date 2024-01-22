@@ -22,3 +22,9 @@
 [submodule "Java Programs/Bucket-Sort-LL"]
 	path = Java Programs/Bucket-Sort-LL
 	url = https://github.com/IlyesOul/Bucket-Sort-LL
+[submodule "Unity Game Development/Unity_Ship"]
+	path = Unity Game Development/Unity_Ship
+	url = https://github.com/IlyesOul/Unity_Ship
+[submodule "Web Devlopment/Portfolio_Website"]
+	path = Web Devlopment/Portfolio_Website
+	url = https://github.com/IlyesOul/Portfolio_Website
